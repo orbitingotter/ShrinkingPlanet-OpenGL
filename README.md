@@ -1,9 +1,10 @@
 ## Shrinking Planet - OpenGL
 
-This repo is made in parallel with **[ShrinkingPlanet-Unity](https://github.com/orbitingotter/ShrinkingPlanet-Unity)** in from scratch using
+This repo is made in parallel with **[ShrinkingPlanet-Unity](https://github.com/orbitingotter/ShrinkingPlanet-Unity)** from scratch using
  my own engine from **[OpenGL repo](https://github.com/orbitingotter/OpenGL)**.
 
 Preview -
+
 ![openglGIF](https://github.com/orbitingotter/ShrinkingPlanet-OpenGL/assets/112700146/7959a2e5-efc4-4107-9380-ca680662560b)
 
 
